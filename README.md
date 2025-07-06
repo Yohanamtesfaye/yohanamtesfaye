@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Yohana Tesfaye
+# 👋 Hi there, I'm Yohana Mekuria Tesfaye
 
 ![Fullstack Developer | Frontend Specialist | Stellar Blockchain Developer](https://img.shields.io/badge/-Fullstack%20Developer-green?style=for-the-badge)
 ![Frontend Specialist](https://img.shields.io/badge/-Frontend%20Specialist-blue?style=for-the-badge)
