@@ -10,8 +10,6 @@
 
 I’m a passionate Full-Stack Developer with a strong focus on building clean, scalable, and user-friendly web and mobile applications. I specialize in Frontend development, and I’m also a Blockchain Developer working with the **Stellar Network** to create decentralized and secure financial applications.
 
-My journey is rooted in solving real-world problems through technology, especially in areas that can impact lives, such as fintech, healthcare, and education.
-
 ---
 
 ## 🔧 Tech Stack & Specialties
