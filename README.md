@@ -45,6 +45,6 @@ I’m a passionate Full-Stack Developer with a strong focus on building clean, s
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yohana-mekuria-90607a2ab/)
 - 📬 Email: yohanatesfaye24@gmail.com
-- 🌐 [Portfolio Website]((https://yohana-mekuria.netlify.app/))
+- 🌐 [Portfolio Website](https://yohana-mekuria.netlify.app/)
 
 ---
