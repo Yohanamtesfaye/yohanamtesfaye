@@ -34,8 +34,6 @@ I’m a passionate Full-Stack Developer with a strong focus on building clean, s
 
 ---
 
----
-
 ## 🏆 Hackathon & Community
 - 🥈 2nd Place – Google Developers Group Hackathon (built a tutor-student matching platform)
 - 👩‍🏫 Instructor – 10-Day JavaScript & React bootcamp
@@ -50,6 +48,3 @@ I’m a passionate Full-Stack Developer with a strong focus on building clean, s
 - 🌐 [Portfolio Website]((https://yohana-mekuria.netlify.app/))
 
 ---
-
-## ⚡ Fun Fact
-I believe Ethiopia is on the verge of a tech breakthrough — and I’m excited to be part of that transformation.
