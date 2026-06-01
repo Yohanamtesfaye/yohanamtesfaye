@@ -2,7 +2,7 @@
 
 ![Fullstack Dev](https://img.shields.io/badge/-Fullstack%20Developer-green?style=for-the-badge)
 ![Frontend Specialist](https://img.shields.io/badge/-Frontend%20Specialist-blue?style=for-the-badge)
-![Blockchain Dev](https://img.shields.io/badge/-Stellar%20Blockchain%20Developer-yellow?style=for-the-badge)
+![Blockchain Dev](https://img.shields.io/badge/-%20Blockchain%20Developer-yellow?style=for-the-badge)
 
 ---
 
