@@ -17,7 +17,7 @@ I'm a Full-Stack Developer with a strong passion for frontend and blockchain. I 
 - **Frontend:** React, Next.js, Tailwind, Flutter, JS/HTML/CSS  
 - **Backend:** Node.js, Python (Flask/FastAPI), Django  
 - **DB:** MySQL, MongoDB  
-- **Blockchain:** Stellar SDK, SEP, multi-sig, asset tokenization  
+- **Blockchain:** Stellar SDK, SEP, asset tokenization, solidity, soroban, rust
 - **Tools:** Git, Postman, Docker (basic), VS Code, Figma
 
 ---
@@ -32,6 +32,6 @@ I'm a Full-Stack Developer with a strong passion for frontend and blockchain. I 
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yohana-mekuria-90607a2ab/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yohana-mekuria/)  
 - 📧 yohanatesfaye24@gmail.com  
-- 🌐 [Portfolio](https://yohana-mekuria.netlify.app/)
+- 🌐 [Portfolio](https://yohanamekuria.dev/)
